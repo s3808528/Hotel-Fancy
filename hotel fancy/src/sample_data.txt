@@ -1,0 +1,11 @@
+R_999:6:fridge,electricKettle:suite:MAINTENANCE:2/8/2019:../hotel fancy/images/Room.png
+S_999_CUS222_11102019:18/11/2019:11/11/2019:25/11/2019:1871.1001:99
+S_887_CUS223_19112019:20/11/2019:20/11/2019:25/11/2019:18.20:99
+R_558:4:fridge,electricKettle:standard:AVAILABLE:../hotel fancy/images/Room.png
+S_460:6:airconditioning,fridge,electricKettle:suite:RENTED:11/8/2019:../hotel fancy/images/Room.png
+S_460_CUS223_19112019:20/11/2019:20/11/2019:25/11/2019:18.20:99
+S_322:6:airconditioning,cableTV,Wifi:suite:AVAILABLE:11/8/2019:../hotel fancy/images/Room.png
+R_108:2:airconditioning,cableTV,Wifi,fridge,electricKettle:Standard:RENTED:../hotel fancy/images/Room.png
+R_108_CUS223_19112019:20/11/2019:20/11/2019:25/11/2019:18.20:99
+R_776:1:fridge,electricKettle:standard:RENTED:../hotel fancy/images/Room.png
+R_776_CUS258_11112019:16/11/2019:11/11/2019:15/11/2019:995:0
